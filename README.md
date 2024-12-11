@@ -2,7 +2,7 @@
 
 - Python
 - Rust
-  - Embedded Rust
+- Embedded Rust
 - PostgreSQL
 - HTML & CSS
 - GIT
