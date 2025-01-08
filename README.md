@@ -1,12 +1,4 @@
 ## I love solving problems 
 
-- Python
-- C
-- Rust
-- Embedded Rust
-- Embedded C
-- PostgreSQL
-- HTML & CSS
-- GIT
-- Django
-
+Embedded C and Rust gamer...
+Python's also on the list!
